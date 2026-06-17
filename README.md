@@ -210,7 +210,7 @@ Discover the enthusiastic creators behind Wonder Pet!
 - **Overall Impression:** 4
 
 <p align="justify">
-  These ratings reflect our evaluation of the project's performance in certain areas. We continuously strive to improve and appreciate your suggestions for future enhancements.
+  These ratings reflect our evaluation of the project's performance in certain areas. We strive to improve and appreciate your suggestions for future enhancements.
 </p>
 
 <br>
